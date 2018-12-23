@@ -5,6 +5,7 @@
 This mod does a few very, *very* small zombie villager related things. Most players will not notice or care, but they make all the difference for players who do.
 
 * Zombifying a villager causes them to forget everything besides their profession (reverting a 18w50a change)
+  * This happens 100% of the time on Hard, 50% of the time on Normal, and never on Easy
 * Zombie villagers have a 100% chance of appearing when a villager is killed by a zombie, regardless of game difficulty.
 * Zombified villagers will not despawn naturally (as if nametagged)
 
