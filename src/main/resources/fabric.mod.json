@@ -1,0 +1,14 @@
+{
+	"id": "forgetfulvillagers",
+	"name": "Forgetful Villagers",
+	"description": "Villagers forget trades again when zombified",
+	"version": "1.0.0",
+	"side": "universal",
+	"authors": [
+		"quaternary",
+		"gnembon"
+	],
+	"mixins": {
+		"common": "forgetfulvillagers.common.json"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "quaternary.forgetfulvillagers.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+		"ZombieEntityMixin",
+		"IZombieEntityAccessor",
+		"IMobEntityAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
